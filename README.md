@@ -1,3 +1,3 @@
 # wzzn
 
-hello world!
+记录精彩文字
